@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Webform", "Webform\Webform.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{670DEBFE-55C4-4713-9C71-5560C348F012}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reverse string", "Reverse string\Reverse string.csproj", "{9F6EF4EA-D869-4ADF-A0BE-5CD6AC53F0FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibonacci Sequence", "Fibonacci Sequence\Fibonacci Sequence.csproj", "{49B17EC8-37B6-4F81-A5D1-ECE3AB081FA7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{670DEBFE-55C4-4713-9C71-5560C348F012}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{670DEBFE-55C4-4713-9C71-5560C348F012}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{670DEBFE-55C4-4713-9C71-5560C348F012}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F6EF4EA-D869-4ADF-A0BE-5CD6AC53F0FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F6EF4EA-D869-4ADF-A0BE-5CD6AC53F0FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F6EF4EA-D869-4ADF-A0BE-5CD6AC53F0FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F6EF4EA-D869-4ADF-A0BE-5CD6AC53F0FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49B17EC8-37B6-4F81-A5D1-ECE3AB081FA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49B17EC8-37B6-4F81-A5D1-ECE3AB081FA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49B17EC8-37B6-4F81-A5D1-ECE3AB081FA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49B17EC8-37B6-4F81-A5D1-ECE3AB081FA7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
