@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reverse string", "Reverse s
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibonacci Sequence", "Fibonacci Sequence\Fibonacci Sequence.csproj", "{49B17EC8-37B6-4F81-A5D1-ECE3AB081FA7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Star Pyramid", "Star Pyramid\Star Pyramid.csproj", "{B379D1D2-7166-4AFA-80A1-E3B85EDA725B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{49B17EC8-37B6-4F81-A5D1-ECE3AB081FA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{49B17EC8-37B6-4F81-A5D1-ECE3AB081FA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{49B17EC8-37B6-4F81-A5D1-ECE3AB081FA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B379D1D2-7166-4AFA-80A1-E3B85EDA725B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B379D1D2-7166-4AFA-80A1-E3B85EDA725B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B379D1D2-7166-4AFA-80A1-E3B85EDA725B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B379D1D2-7166-4AFA-80A1-E3B85EDA725B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
