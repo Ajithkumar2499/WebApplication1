@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibonacci Sequence", "Fibon
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Star Pyramid", "Star Pyramid\Star Pyramid.csproj", "{B379D1D2-7166-4AFA-80A1-E3B85EDA725B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factorial", "Factorial\Factorial.csproj", "{EE1A9D07-0FC2-470D-BE04-35EA3622F644}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{B379D1D2-7166-4AFA-80A1-E3B85EDA725B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B379D1D2-7166-4AFA-80A1-E3B85EDA725B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B379D1D2-7166-4AFA-80A1-E3B85EDA725B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE1A9D07-0FC2-470D-BE04-35EA3622F644}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE1A9D07-0FC2-470D-BE04-35EA3622F644}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE1A9D07-0FC2-470D-BE04-35EA3622F644}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE1A9D07-0FC2-470D-BE04-35EA3622F644}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
