@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prime number", "Prime numbe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ascending order", "Ascending order\Ascending order.csproj", "{5E601949-9B7E-4146-A6B2-797A75EEB8C2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Duplicate", "Duplicate\Duplicate.csproj", "{3767CF96-9083-47CC-94B1-D9915168D044}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{5E601949-9B7E-4146-A6B2-797A75EEB8C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5E601949-9B7E-4146-A6B2-797A75EEB8C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5E601949-9B7E-4146-A6B2-797A75EEB8C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3767CF96-9083-47CC-94B1-D9915168D044}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3767CF96-9083-47CC-94B1-D9915168D044}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3767CF96-9083-47CC-94B1-D9915168D044}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3767CF96-9083-47CC-94B1-D9915168D044}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
