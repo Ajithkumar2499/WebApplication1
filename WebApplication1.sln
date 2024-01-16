@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Duplicate", "Duplicate\Dupl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DuplicateDblForLoop", "DuplicateDblForLoop\DuplicateDblForLoop.csproj", "{1DD57771-E625-46F1-A9E0-1D40668D4AFB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DuplicateLINQ", "DuplicateLINQ\DuplicateLINQ.csproj", "{5B95B5EB-8514-4406-9B3A-57C89A7A6014}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{1DD57771-E625-46F1-A9E0-1D40668D4AFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1DD57771-E625-46F1-A9E0-1D40668D4AFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1DD57771-E625-46F1-A9E0-1D40668D4AFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B95B5EB-8514-4406-9B3A-57C89A7A6014}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B95B5EB-8514-4406-9B3A-57C89A7A6014}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B95B5EB-8514-4406-9B3A-57C89A7A6014}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B95B5EB-8514-4406-9B3A-57C89A7A6014}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
