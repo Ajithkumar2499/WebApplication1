@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwappingVariable", "Swappin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Number Pattern", "Number Pattern\Number Pattern.csproj", "{B6BE302C-AF46-4C14-88B7-565936E3E5D9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveDuplicate", "RemoveDuplicate\RemoveDuplicate.csproj", "{573D86F2-B32F-4DAC-B128-FFACB682FA17}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{B6BE302C-AF46-4C14-88B7-565936E3E5D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B6BE302C-AF46-4C14-88B7-565936E3E5D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B6BE302C-AF46-4C14-88B7-565936E3E5D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{573D86F2-B32F-4DAC-B128-FFACB682FA17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{573D86F2-B32F-4DAC-B128-FFACB682FA17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{573D86F2-B32F-4DAC-B128-FFACB682FA17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{573D86F2-B32F-4DAC-B128-FFACB682FA17}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
