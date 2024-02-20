@@ -16,8 +16,7 @@ namespace Multiply
 
             for (int i = 0; i < num2; i++)
             {
-                int temp = result + num1;
-                result = temp;
+                result += num1;
             }
             Console.WriteLine(result);
             Console.ReadLine();
