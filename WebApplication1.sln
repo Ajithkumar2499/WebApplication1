@@ -37,6 +37,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveDuplicate", "RemoveDu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveDuplicateLinq", "RemoveDuplicateLinq\RemoveDuplicateLinq.csproj", "{160A91B6-EF6F-4320-B55D-81F33A77AE3D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebformApp", "WebformApp\WebformApp.csproj", "{27773D74-6F57-44EF-B5A2-6D92A0CA6EDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharCount", "CharCount\CharCount.csproj", "{8A58899F-06FD-403A-9230-11EDEAC68938}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +115,14 @@ Global
 		{160A91B6-EF6F-4320-B55D-81F33A77AE3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{160A91B6-EF6F-4320-B55D-81F33A77AE3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{160A91B6-EF6F-4320-B55D-81F33A77AE3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27773D74-6F57-44EF-B5A2-6D92A0CA6EDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27773D74-6F57-44EF-B5A2-6D92A0CA6EDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27773D74-6F57-44EF-B5A2-6D92A0CA6EDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27773D74-6F57-44EF-B5A2-6D92A0CA6EDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A58899F-06FD-403A-9230-11EDEAC68938}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A58899F-06FD-403A-9230-11EDEAC68938}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A58899F-06FD-403A-9230-11EDEAC68938}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A58899F-06FD-403A-9230-11EDEAC68938}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
