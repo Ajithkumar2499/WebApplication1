@@ -21,6 +21,26 @@ namespace Fibonacci_Sequence
                 n2 = result;
             }
             Console.ReadLine();
+
+            //int input1 = 5, result1, n10 = 0;  //output : 0 1 1 2 3
+
+            //if (input != 0)
+            //{
+            //    Console.Write(n10 + " ");
+            //}
+            //if (input1 > 1)
+            //{
+            //    int n20 = 1;
+            //    Console.Write(n2 + " ");
+            //    for (int i = 2; i < input1; i++)
+            //    {
+            //        result1 = n10 + n20;
+            //        Console.Write(result1 + " ");
+            //        n10 = n20;
+            //        n20 = result1;
+            //    }
+            //    Console.Read();
+            //}
         }
     }
 }
