@@ -15,6 +15,10 @@ namespace DuplicateLINQ
 			.Where(g => g.Count() > 1)
 			.Select(x => x.Key);
 
+			var result = list.Skip(3).Take(4).ToList();
+
+			Console.WriteLine("Skip and Take: " + String.Join(",", result));
+
 			Console.WriteLine("Duplicate elements are: " + String.Join(",", duplicates));
 			Console.ReadLine();
 		}
