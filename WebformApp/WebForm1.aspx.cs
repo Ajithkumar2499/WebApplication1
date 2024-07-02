@@ -14,7 +14,12 @@ namespace WebformApp
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            if (!IsPostBack)
+            {
+                // Setting ViewState values
+                ViewState["Name"] = "John";
+                ViewState["Age"] = 30;
+            }
         }
 
         protected void btnSave_Click(object sender, EventArgs e)
@@ -54,6 +59,17 @@ namespace WebformApp
         protected void btnBack_Click(object sender, EventArgs e)
         {
             Response.Redirect("https://localhost:44326/Gridview.aspx");
+        }
+
+        protected void btnGetViewState_Click(object sender, EventArgs e)
+        {
+            // Getting ViewState values
+            string name = ViewState["Name"] as string;
+            int age = (int)ViewState["Age"];
+
+            // Displaying values
+            lblName.Text = "Name: " + name;
+            lblAge.Text = "Age: " + age.ToString();
         }
     }
 }

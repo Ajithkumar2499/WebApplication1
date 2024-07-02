@@ -82,6 +82,13 @@
             </table>
             <asp:Button ID="btnBack" runat="server" Text="Back" OnClick="btnBack_Click" />
         </div>
+        <div>
+            <asp:Button ID="btnGetViewState" runat="server" Text="Get ViewState" OnClick="btnGetViewState_Click" />
+            <br />
+            <asp:Label ID="Label1" runat="server" Text=""></asp:Label>
+            <br />
+            <asp:Label ID="Label2" runat="server" Text=""></asp:Label>
+        </div>
     </form>
 </body>
 </html>
